@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Hi there](https://readme-typing-svg.herokuapp.com?color=ED6A5A&size=24&lines=Hi!+I'm+Philipp+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!--
 **philippkant/philippkant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
