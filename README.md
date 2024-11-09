@@ -2,11 +2,11 @@
 
 I am Philipp Kant, a Software Architect and Project Manager with a robust background in Data Science and Web Development. I hold a Master's degree in Computer Science with a specialization in Deep Learning from RWTH Aachen University. With a comprehensive understanding of software development and an expanded knowledge base in digital marketing and business solutions, here's what I offer:
 
-• Advanced expertise in FULL-STACK DEVELOPMENT and WEB APPLICATIONS
-• Proficiency in DIGITAL MARKETING, including SEO, Google Ads, and Analytics
-• In-depth experience with CRM/ERP SOFTWARE and INTEGRATIONS
-• Strong capabilities in MACHINE LEARNING and AI-driven solutions
-• Proven skills in AUTOMATION and internal process optimization through SCRIPTS and AI
+- Advanced expertise in FULL-STACK DEVELOPMENT and WEB APPLICATIONS
+- Proficiency in DIGITAL MARKETING, including SEO, Google Ads, and Analytics
+- In-depth experience with CRM/ERP SOFTWARE and INTEGRATIONS
+- Strong capabilities in MACHINE LEARNING and AI-driven solutions
+- Proven skills in AUTOMATION and internal process optimization through SCRIPTS and AI
 
 Currently working at a Digital Marketing Agency, I lead projects as a Software Architect and Project Manager, developing voice bots for automated customer communication, enhancing marketing strategies through SEO and Google Ads, and creating landing pages and web applications. My solutions extend to optimizing internal workflows with advanced scripts and AI-driven approaches.
 
