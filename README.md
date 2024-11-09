@@ -1,14 +1,16 @@
 [![Hi there](https://readme-typing-svg.herokuapp.com?color=ED6A5A&size=24&lines=Hi!+I'm+Philipp+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I am Philipp Kant, a passionate Data Scientist and Web Developer, holding a Master's degree in Computer Science with a specialization in Deep Learning from RWTH Aachen University. With a strong foundation in software development and a deep understanding of data analysis, here's what I offer:
+I am Philipp Kant, a Software Architect and Project Manager with a robust background in Data Science and Web Development. I hold a Master's degree in Computer Science with a specialization in Deep Learning from RWTH Aachen University. With a comprehensive understanding of software development and an expanded knowledge base in digital marketing and business solutions, here's what I offer:
 
-- Advanced knowledge in MACHINE LEARNING and DATA SCIENCE
-- Extensive experience in WEB DEVELOPMENT and interface design
-- Expertise in Python, JavaScript, and modern technologies
-- Effective solutions for DATA PROCESSING and ANALYSIS
-- Development of STRATEGIES for data integration and optimization
+• Advanced expertise in FULL-STACK DEVELOPMENT and WEB APPLICATIONS
+• Proficiency in DIGITAL MARKETING, including SEO, Google Ads, and Analytics
+• In-depth experience with CRM/ERP SOFTWARE and INTEGRATIONS
+• Strong capabilities in MACHINE LEARNING and AI-driven solutions
+• Proven skills in AUTOMATION and internal process optimization through SCRIPTS and AI
 
-I bring a combination of technical expertise and practical experience to support companies as a consultant and freelance developer. My goal is to meet and exceed your digital ambitions with tailored, effective strategies and techniques. Let's talk about how I can advance your business with innovative data-driven solutions.
+Currently working at a Digital Marketing Agency, I lead projects as a Software Architect and Project Manager, developing voice bots for automated customer communication, enhancing marketing strategies through SEO and Google Ads, and creating landing pages and web applications. My solutions extend to optimizing internal workflows with advanced scripts and AI-driven approaches.
+
+I bring a unique blend of technical depth and strategic oversight to support your business in achieving its digital marketing and operational goals!
 
 
 <!--
