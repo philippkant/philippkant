@@ -1,4 +1,5 @@
 [![Hi there](https://readme-typing-svg.herokuapp.com?color=ED6A5A&size=24&lines=Hi!+I'm+Philipp+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 Software Architect & Project Manager with an M.Sc. in Computer Science (specialization in Deep Learning) from RWTH Aachen. I blend tech expertise with digital marketing know-how to build smart business solutions.
 
 ### What I Do:
